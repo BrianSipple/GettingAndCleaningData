@@ -1,8 +1,8 @@
 ## Program Name : run_analysis.R
 
-* Coursera : Getting & Cleaning Data
+* Prepared as a course requirement for "Getting & Cleaning Data"
 * Assignment-1
-*Author : Brian Greiner
+* Author : Brian Greiner
 
 
 ## Assumptions : 
