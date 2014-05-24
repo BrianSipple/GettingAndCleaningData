@@ -14,10 +14,10 @@ This dataset is from an experiment that monitored the physical activities 30 vol
 * The columns of the combined data set consisted of the activity, subject_ID, and the various measurements
 * A descriptive name is applied to each type of measurement.  These names were obtained from the documentation supplied with the data set.
 * The numeric code describing each activity is replaced with a descriptive name.  These names were obtained from the documentation supplied with the data set.
-* A second independent data set is created, consisting of the average of each variable for each activity and each subject.  This data set is stored as a CSV file.
+* A second independent data set is created (using"tidy" data set principles), consisting of the average of each variable for each activity and each subject.  This data set is stored as a CSV file.
 
 
-## VARIABLES
+## VARIABLES INCLUDED IN THE SECOND INDEPENDENT DATA SET
 activity
 * WALKING
 * WALKING_UPSTAIRS
