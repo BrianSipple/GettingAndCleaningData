@@ -17,6 +17,11 @@ This dataset is from an experiment that monitored the physical activities 30 vol
 * A second independent data set is created (using"tidy" data set principles), consisting of the average of each variable for each activity and each subject.  This data set is stored as a CSV file.
 
 
+## The tidy data set
+*This data set consists of 180 rows, which represent each of the 6 activities for each of the 30 subjects.  
+*Each column consists of one variable (detailed below).
+
+
 ## VARIABLES INCLUDED IN THE SECOND INDEPENDENT DATA SET
 activity
 * WALKING
